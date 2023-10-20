@@ -1,0 +1,29 @@
+body{
+    background-image: url('b.jpg'),linear-gradient(to right,white , white);
+    background-blend-mode: multiply;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    overflow:hidden;
+}
+.message{
+    text-align:center;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100hv;
+}
+#container{
+    background-color:orange;
+    padding:40px;
+    margin:20px;
+    border-radius:100px;
+    margin-top:250px;
+    margin-left:50px;
+    margin-right:50px;
+}
+p{
+    color:black;
+    font-size: 18px;
+    font-family: "Courier New";
+}

@@ -1,0 +1,29 @@
+.captured{
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+    width: 30%;
+    margin: top 10px;
+}
+p{
+    color:black;
+    font-size: 18px;
+}
+.container{
+    background-color:orange;
+    padding:20px;
+    margin:20px;
+    border-radius:100px;
+}
+*{
+    font-family: "Courier New";
+} 
+body{
+    
+    background-image: url('b.jpg'),linear-gradient(to right,white , white);
+    background-blend-mode: multiply;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    overflow:hidden;
+  }
