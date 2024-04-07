@@ -1,2 +1,3 @@
 # event-managment
-This project include HTML, CSS and JS. have used images of my choice which is also included in the respositry 
+<h1>Event Management website</h1>
+<h3>created using HTML and CSS only</h3>

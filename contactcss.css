@@ -37,7 +37,7 @@ input[type=submit]:hover {
 
 body{
     
-  background-image: url('b.jpg'),linear-gradient(to right,white , white);
+  background-image: url('img/b.jpg'),linear-gradient(to right,white , white);
   background-blend-mode: multiply;
   background-position: center;
   background-size: cover;
